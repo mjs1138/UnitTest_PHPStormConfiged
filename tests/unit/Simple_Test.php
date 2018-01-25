@@ -9,7 +9,7 @@
 use \PHPUnit\Framework\TestCase;
 
 
-class SimpleTest extends TestCase {
+class Simple_Test extends TestCase {
     public function testTrueAssertsToTrue(){
         $a=1;
         $this->assertTrue(true);
